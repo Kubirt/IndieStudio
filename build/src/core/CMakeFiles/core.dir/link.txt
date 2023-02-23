@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a CMakeFiles/core.dir/Timer.cpp.o CMakeFiles/core.dir/Core.cpp.o CMakeFiles/core.dir/CoreParameters.cpp.o CMakeFiles/core.dir/GameParameters.cpp.o
+/usr/bin/ranlib libcore.a

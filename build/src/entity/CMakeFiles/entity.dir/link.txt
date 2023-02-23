@@ -1,0 +1,2 @@
+/usr/bin/ar qc libentity.a CMakeFiles/entity.dir/Button.cpp.o CMakeFiles/entity.dir/boxes/Box.cpp.o CMakeFiles/entity.dir/boxes/Crate.cpp.o CMakeFiles/entity.dir/boxes/PowerUp.cpp.o CMakeFiles/entity.dir/player/Player.cpp.o CMakeFiles/entity.dir/player/Controls.cpp.o CMakeFiles/entity.dir/player/Gamepad.cpp.o CMakeFiles/entity.dir/bombs/Bomb.cpp.o
+/usr/bin/ranlib libentity.a

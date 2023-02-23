@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/bomberman.dir/main.cpp.o -o ../../bomberman  -Wl,-rpath,/usr/local/lib64 map/libmap.a core/libcore.a scene/libscene.a entity/libentity.a raylib_encapsulation/libraylib_ec.a map/libmap.a entity/libentity.a core/libcore.a raylib_encapsulation/libraylib_ec.a /usr/local/lib64/libraylib.so -L/usr/local/lib64 -lraylib 
