@@ -4,6 +4,8 @@ Video Game, made for an Epitech Year End project, whose goal was to reproduce a 
 ## The Game
 The goal of the game is the same as a Bomberman: one to four players try to kill each other until there is only one survivor.
 
+![Screenshot from 2022-06-24 21-26-01](https://user-images.githubusercontent.com/72017065/220929410-6378a07b-905f-4b7c-85ec-71df7722a10d.png)
+
 ## Building
 
 ### Command Line (via CMake)
